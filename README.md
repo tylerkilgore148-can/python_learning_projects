@@ -23,6 +23,10 @@ python3 personal_learning_projects1.py
 - store hashed pass codes instead of plain text
 - lock out user after failed attempts
 
+- ## change-log
+- V1 created a basic python calculator
+- V2 added a While true loop
+
 Note: the pass codes in the code are practice value, not real ones.
 
 ## FEEDBACK WANTED!!!
