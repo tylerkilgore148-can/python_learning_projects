@@ -17,12 +17,6 @@ python3 personal_learning_projects1.py
 - if/elif/else
 - nested if statements
 
-## next steps
-
-- hide pass code as it's typed (get-pass)
-- store hashed pass codes instead of plain text
-- lock out user after failed attempts
-
 - ## change-log
 - V1 created a basic python calculator
 - V2 added a While true loop
